@@ -1,0 +1,7 @@
+vsphere_server = "vcenter.lab.local"
+esxi_host_address = "esxi-01.yourdomain.local"
+esxi_username = "foo"
+esxi_thumbprint = "00:11:22:33:44:55:66:77:88:99:AA:BB:CC:DD:EE:FF:01:23:45:67"
+vsphere_password = "foo12345"
+esxi_password = "foo0987"
+vsphere_user = "foo.example"
